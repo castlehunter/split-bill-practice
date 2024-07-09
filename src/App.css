@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  width: 40%;
 }
 
 .App-logo {
@@ -35,4 +36,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.friend-list {
+  text-decoration: none;
+  border-radius: 10px;
+  background-color: #c6e5b3;
+  margin: 30px;
+  padding: 10px 0;
+}
+
+.add-friend {
+  margin-bottom: 30px;
+}
+
+.bill {
+  background-color: rgb(53, 167, 129);
+}
+
+.friend-form {
+  margin-bottom: 30px;
 }

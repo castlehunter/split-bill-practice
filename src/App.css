@@ -52,6 +52,9 @@
 
 .bill {
   background-color: rgb(53, 167, 129);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 30px;
 }
 
 .friend-form {
